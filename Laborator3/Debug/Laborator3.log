@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\vladu\source\repos\Laborator3\Laborator3\Source.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vladu\source\repos\Laborator3\Laborator3\Source.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vladu\source\repos\Laborator3\Laborator3\Source.cpp(27,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vladu\source\repos\Laborator3\Laborator3\Source.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vladu\source\repos\Laborator3\Laborator3\Source.cpp(77,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vladu\source\repos\Laborator3\Laborator3\Source.cpp(105,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vladu\source\repos\Laborator3\Laborator3\Source.cpp(121,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vladu\source\repos\Laborator3\Laborator3\Source.cpp(125,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vladu\source\repos\Laborator3\Laborator3\Source.cpp(137,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vladu\source\repos\Laborator3\Laborator3\Source.cpp(154,20): warning C4018: '<': signed/unsigned mismatch
+  Laborator3.vcxproj -> C:\Users\vladu\source\repos\Laborator3\Debug\Laborator3.exe

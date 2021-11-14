@@ -1,0 +1,12 @@
+﻿Multimea starilor Q:
+q1,q2,q3
+
+Alfabetul de intrare 𝜮:
+0,1
+
+Functia de tranzitie 𝜹 si tranzitiile:
+QxE->Q
+q1,0->q1;q1,1->q2;q2,0->q3;q3,1->q3;q3,1->q2
+
+Multimea starilor finale F:
+q3
